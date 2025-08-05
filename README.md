@@ -1,7 +1,7 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://nodejs.org" target="_blank">
+      <a href="" target="_blank">
         <img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif"nodejs" width="150" height="200"/>
       </a>
     </td>
@@ -10,7 +10,7 @@
       <h3>FullStack Developer | Backend | Javascript | Typescript | Nest.js | PostgreSQL</h3>
     </td>
     <td>
-      <a href="https://nodejs.org" target="_blank">
+      <a href="" target="_blank">
         <img src="https://camo.githubusercontent.com/e162405066e1ae012a76f61c4b1b654d9b68039a464d8df26170389dcbe23147/68747470733a2f2f7777772e6879706572696e7465726163746976652e64652f77702d636f6e74656e742f75706c6f6164732f323032322f30352f6261636b2d656e642d646576656c6f7065722e676966" alt="nodejs" width="150" height="200"/>
       </a>
     </td>
