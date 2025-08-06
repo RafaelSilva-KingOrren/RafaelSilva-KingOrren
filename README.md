@@ -7,7 +7,7 @@
     </td>
     <td align="center">
       <h1>Rafael Silva</h1>
-      <h3>FullStack Developer | Backend | Javascript | Typescript | Nest.js | PostgreSQL</h3>
+      <h3>FullStack Developer | Backend | Javascript | Typescript | Nest.js | PostgreSQL |</h3>
     </td>
     <td>
       <a href="" target="_blank">
