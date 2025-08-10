@@ -27,7 +27,7 @@
   </a>
 </p>
 <p align="center">
-kingorren1@gmail.com
+|kingorren1@gmail.com|
 </p>
 
 <h3 align="center">Tools and Knowledge:</h3>
