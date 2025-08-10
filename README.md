@@ -57,7 +57,7 @@
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="100" height="100"/></a>
   <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="100" height="100"/></a>
   <a href="https://bulma.io/" target="_blank"><img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="100" height="100"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="100" height="100"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://trapfether.gallerycdn.vsassets.io/extensions/trapfether/tailwind-raw-reorder/3.2.0/1706903284985/Microsoft.VisualStudio.Services.Icons.Default" width="100" height="100"/></a>
   <a href="https://webpack.js.org" target="_blank"><img src="https://www.jellybellydev.it/webpack-presentation/img/webpack-logo.gif" alt="webpack" width="100" height="100"/></a>
   <a href="https://www.figma.com/" target="_blank"><img src="https://cdn.dribbble.com/userupload/42461346/file/original-fb89310f46ff03f173c67db026ba6af5.gif" alt="figma" width="100" height="100"/></a>
 </p>
