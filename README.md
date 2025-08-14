@@ -32,7 +32,7 @@
 
 <h3 align="center">Tools and Knowledge:</h3>
 
-<h3 align="center">🧠 |Backend| 🧠</h3>
+<h3 align="center">🧠 |Backend <3| 🧠</h3>
 <p align="center">
   <a href="https://nodejs.org" target="_blank"><img src="https://miro.medium.com/v2/resize:fit:1200/1*Ya29yVPxE_xhxsDIAabrhw.gif" alt="nodejs" width="200" height="200"/></a>
   <br><br>
