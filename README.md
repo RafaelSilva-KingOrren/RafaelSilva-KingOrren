@@ -6,7 +6,7 @@
       </a>
     </td>
     <td align="center">
-      <h1>|Rafael Silva|</h1>
+      <h1>Rafael Silva</h1>
       <h3>FullStack Developer | Backend | Javascript | Typescript | Nest.Js | PostgreSQL |</h3>
     </td>
     <td>
