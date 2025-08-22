@@ -77,7 +77,7 @@
   <a href="https://jasmine.github.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="48" height="48"/></a>
 </p>
 
-<h3 align="center">🧩 |General Tools| 🧩</h3>
+<h3 align="center">🧩 |General Tools.| 🧩</h3>
 <p align="center">
  <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="48" height="48"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="48" height="48"/></a>
