@@ -49,7 +49,7 @@ kingorren1@gmail.com
   <a href="https://www.python.org" target="_blank"><img src="https://camo.githubusercontent.com/1ba745ee752123325aaeb8650817192f95bd148416f29c9e759342c802fd7583/68747470733a2f2f6173736574732d76322e6c6f7474696566696c65732e636f6d2f612f36326530326263362d313136662d313165652d616562302d3037376333333562336336372f5870776655696b494c502e676966" alt="python" width="100" height="100"/></a>
 </p>
 
-<h3 align="center">🚀 |Frontend| 🚀</h3>
+<h3 align="center">🚀 |Frontend.| 🚀</h3>
 <p align="center">
   <a href="https://reactjs.org/" target="_blank"><img src="https://user-images.githubusercontent.com/97989643/220242520-78dd8232-4416-461a-a8f1-6c0b3f5f357f.gif" alt="react" width="200" height="200"/></a>
   <a href="https://nextjs.org/" target="_blank"><img src="https://velog.velcdn.com/images/aksen5240/post/a7fee78a-b228-4b5f-8912-b7a47c15147a/image.gif" alt="nextjs" width="100" height="150"/></a>
