@@ -84,4 +84,4 @@ kingorren1@gmail.com
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://miro.medium.com/v2/resize:fit:960/1*sFolzXaZHyhX4eqxURgEow.gif" alt="javascript" width="48" height="48"/></a>
 </p>
 
-<h3 align="center"> If you want to know more about my projects ask for repo download permission <3 </h3>
+<h3 align="center"> If you want to know more about my projects send me a request </h3>
