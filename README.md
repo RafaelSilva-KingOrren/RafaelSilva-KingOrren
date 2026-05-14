@@ -46,7 +46,7 @@ kingorren1@gmail.com
   <br><br>
   <a href="https://www.php.net" target="_blank"><img src="https://inmakeslh.com/storage/program_images/1740820464.gif" alt="php" width="100" height="100"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.python.org" target="_blank"><img src="https://camo.githubusercontent.com/1ba745ee752123325aaeb8650817192f95bd148416f29c9e759342c802fd7583/68747470733a2f2f6173736574732d76322e6c6f7474696566696c65732e636f6d2f612f36326530326263362d313136662d313165652d616562302d3037376333333562336336372f5870776655696b494c502e676966" alt="python" width="100" height="100"/></a>
+  <a href="https://www.python.org" target="_blank"><img src="[https://camo.githubusercontent.com/1ba745ee752123325aaeb8650817192f95bd148416f29c9e759342c802fd7583/68747470733a2f2f6173736574732d76322e6c6f7474696566696c65732e636f6d2f612f36326530326263362d313136662d313165652d616562302d3037376333333562336336372f5870776655696b494c502e676966](https://cdnl.iconscout.com/lottie/premium/thumb/python-animation-gif-download-9108741.gif)" alt="python" width="100" height="100"/></a>
 </p>
 
 <h3 align="center">🚀 |Frontend| 🚀</h3>
