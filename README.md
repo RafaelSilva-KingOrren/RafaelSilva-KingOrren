@@ -51,8 +51,8 @@ kingorren1@gmail.com
 
 <h3 align="center">🚀 |Frontend| 🚀</h3>
 <p align="center">
-  <a href="https://reactjs.org/" target="_blank"><img src="https://user-images.githubusercontent.com/97989643/220242520-78dd8232-4416-461a-a8f1-6c0b3f5f357f.gif" alt="react" width="200" height="200"/></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://velog.velcdn.com/images/aksen5240/post/a7fee78a-b228-4b5f-8912-b7a47c15147a/image.gif" alt="nextjs" width="100" height="150"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://user-images.githubusercontent.com/97989643/220242520-78dd8232-4416-461a-a8f1-6c0b3f5f357f.gif" alt="react" width="100" height="120"/></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://velog.velcdn.com/images/aksen5240/post/a7fee78a-b228-4b5f-8912-b7a47c15147a/image.gif" alt="nextjs" width="100" height="120"/></a>
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="100" height="100"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="100" height="100"/></a>
   <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="100" height="100"/></a>
