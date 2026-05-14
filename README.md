@@ -11,7 +11,7 @@
     </td>
     <td>
       <a href="" target="_blank">
-        <img src="https://user-images.githubusercontent.com/97989643/224550089-f2541ade-c5c6-4afa-8538-51a8dda4e23b.gif" alt="nodejs" width="150" height="200"/>
+        <img src="https://user-images.githubusercontent.com/97989643/224550089-f2541ade-c5c6-4afa-8538-51a8dda4e23b.gif" alt="nodejs" width="130" height="150"/>
       </a>
     </td>
   </tr>
