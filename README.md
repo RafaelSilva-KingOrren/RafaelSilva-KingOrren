@@ -34,7 +34,7 @@ kingorren1@gmail.com
 
 <h3 align="center">🧠 |Backend <3| 🧠</h3>
 <p align="center">
-  <a href="https://nodejs.org" target="_blank"><img src="https://miro.medium.com/v2/resize:fit:1200/1*Ya29yVPxE_xhxsDIAabrhw.gif" alt="nodejs" width="200" height="200"/></a>
+  <a href="https://nodejs.org" target="_blank"><img src="https://miro.medium.com/v2/resize:fit:1200/1*Ya29yVPxE_xhxsDIAabrhw.gif" alt="nodejs" width="300" height="120"/></a>
   <br><br>
   <a href="https://expressjs.com" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWVmXTRybjWV4i9IV85_D7GtvdrJtzYHe8kn5KnJudvtK-OYhpqwTP-2aDiWyKrZvkEtE&usqp=CAU" alt="express" width="100" height="100"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
