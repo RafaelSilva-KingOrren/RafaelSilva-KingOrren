@@ -65,7 +65,7 @@ kingorren1@gmail.com
 
 <h3 align="center">⚙️ |DevOps & Tools| ⚙️</h3>
 <p align="center">
-  <a href="https://www.docker.com/" target="_blank"><img src="https://miro.medium.com/v2/resize:fit:1400/1*wXtyhpOL5NK_w39UvZpADQ.gif" alt="docker" width="120" height="120"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://miro.medium.com/v2/resize:fit:1400/1*wXtyhpOL5NK_w39UvZpADQ.gif" alt="docker" width="50" height="50"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="48" height="48"/></a>
   <a href="https://insomnia.rest/" target="_blank"><img src="https://pbs.twimg.com/profile_images/1367596400410722305/-X7hZiSm_400x400.jpg" width="48" height="48"/></a>
   <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="48" height="48"/></a>
